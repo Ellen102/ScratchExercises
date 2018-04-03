@@ -64,7 +64,7 @@ var scratchLN =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 45);
+/******/ 	return __webpack_require__(__webpack_require__.s = 66);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -28448,6 +28448,22 @@ class XMLVisitor extends BaseCstVisitorWithDefaults {
 
 
 
+/***/ }),
+/* 66 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_jquery__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__webtools_scratchify_js__ = __webpack_require__(45);
+
+
+
+__WEBPACK_IMPORTED_MODULE_0_jquery___default()(document).ready(function() {
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__webtools_scratchify_js__["scratchify"])('language-scratch');
+});
+
 /***/ })
 /******/ ]);
-//# sourceMappingURL=scratchify.js.map
+//# sourceMappingURL=auto_scratchify_language_scratch.js.map
