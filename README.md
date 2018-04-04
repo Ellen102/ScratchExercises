@@ -1,5 +1,7 @@
 # Scratch Exercises
 
+[![Join the chat at https://gitter.im/ScratchExercises/Lobby](https://badges.gitter.im/ScratchExercises/Lobby.svg)](https://gitter.im/ScratchExercises/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Scratch exercises made with [scratch-LN](https://github.com/scratch4d/scratch-LN).
 
 Write scratch exercises in markdown.
